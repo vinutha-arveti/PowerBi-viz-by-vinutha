@@ -1,33 +1,91 @@
-📊 Power BI Dashboards
-Welcome to my Power BI dashboard collection! This repository showcases my hands-on experience in data visualization and business intelligence through three unique projects:
 
-1. 🛍️ Superstore Sales Analysis - Dashboard 1 & 2
-These dashboards provide deep insights into a fictional retail dataset using advanced Power BI features:
 
-Dashboard 1 focuses on regional sales performance, profit margins, and category-wise trends.
+# 📊 Power BI Dashboards by Vinutha
 
-Dashboard 2 adds interactive visuals to compare customer segments, shipping performance, and time-series trends.
+Welcome to my Power BI dashboard repository! This project showcases my data analysis and visualization skills using interactive dashboards built in Microsoft Power BI.
 
-🔗 Check them out on my LinkedIn: Superstore Dashboards
+## 🔍 Contents
 
-2. 🎬 Disney+ Analysis Dashboard
-A fun and visually rich dashboard inspired by Disney+, analyzing show popularity, ratings, genre trends, and viewer engagement.
+- [Superstore Dashboard 1](#-superstore-dashboard-1)
+- [Superstore Dashboard 2](#-superstore-dashboard-2)
+- [Disney+ Dashboard](#-disney-dashboard)
+- [Tools Used](#-tools-used)
+- [Learning Outcomes](#-learning-outcomes)
+- [Contact Me](#-contact-me)
 
-Created using a custom dataset and a Disney-style design aesthetic.
+---
 
-Focus on storytelling with charts and color themes resembling the Disney brand.
+## 🛍️ Superstore Dashboard 1
 
-📌 Posted on LinkedIn with visuals: Disney Dashboard
+**Overview:**  
+Analyzes regional sales, category-wise performance, and profit trends using filters and visualizations.
 
-💡 Tools Used
-Microsoft Power BI Desktop
+**Features:**
+- Sales & Profit by Region
+- Category & Sub-Category Trends
+- Dynamic Filters
 
-Excel for data cleaning
+📎 File: `Superstore_Dashboard1.pbix`  
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)
 
-DAX for calculations and KPIs
+---
 
-Visual-level filters and slicers for interactivity
+## 📦 Superstore Dashboard 2
 
-Design elements for professional and brand-inspired aesthetics
+**Overview:**  
+An enhanced version with deep insights into customer segments, shipping trends, and product-level analysis.
+
+**Features:**
+- Customer Segmentation
+- Shipping Mode Impact
+- Yearly Sales Comparison
+
+📎 File: `Superstore_Dashboard2.pbix`  
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)
+
+---
+
+## 🎬 Disney+ Dashboard
+
+**Overview:**  
+A visually themed dashboard analyzing Disney+ content performance and viewer trends.
+
+**Features:**
+- Top Rated & Popular Shows
+- Genre Distribution
+- User Engagement by Year
+
+📎 File: `Disney_Dashboard.pbix`  
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop
+- Excel (Data Cleaning)
+- DAX (Calculated Fields & KPIs)
+- Custom Visuals & Design Formatting
+
+---
+
+## 📘 Learning Outcomes
+
+- Built interactive and business-focused dashboards
+- Practiced data storytelling and visual design
+- Enhanced skills in DAX, filters, and real-world analysis
+
+---
+
+## 📬 Contact Me
+
+**Vinutha Arveti**  
+📧 vinuthaarveti7@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)  
+💻 [GitHub](https://github.com/vinutha-arveti)
+
+---
+
+> 🌟 Don’t forget to ⭐ star this repository if you find it helpful!
 
 
