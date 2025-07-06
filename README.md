@@ -84,8 +84,5 @@ A visually themed dashboard analyzing Disney+ content performance and viewer tre
 💼 [LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)  
 💻 [GitHub](https://github.com/vinutha-arveti)
 
----
-
-> 🌟 Don’t forget to ⭐ star this repository if you find it helpful!
 
 
