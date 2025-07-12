@@ -71,8 +71,6 @@ Mental health is as essential as any business metric. This dashboard explores su
 - Comparative analysis of mental vs physical health disclosure in job interviews  
 - Clean, accessible design with interactive filters and visuals  
 
-📎 Folder: `mental-health-trends/`  
-🔗 [View on GitHub](https://github.com/vinutha-arveti/PowerBi-viz-by-vinutha/tree/main/mental-health-trends)
 
 ---
 
