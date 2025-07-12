@@ -69,7 +69,10 @@ Mental health is as essential as any business metric. This dashboard explores su
 - Treatment trends by gender and job role (remote/hybrid/on-site)  
 - Word cloud highlighting common mental health concerns from open-ended responses  
 - Comparative analysis of mental vs physical health disclosure in job interviews  
-- Clean, accessible design with interactive filters and visuals  
+- Clean, accessible design with interactive filters and visuals
+  📎 Folder: `mental-health-trends.pbix`    
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)
+
 
 
 ---
