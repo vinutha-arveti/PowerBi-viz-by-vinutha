@@ -1,3 +1,4 @@
+
 # 📊 Power BI Dashboards by Vinutha
 
 Welcome to my Power BI dashboard repository! This project showcases my data analysis and visualization skills using interactive dashboards built in Microsoft Power BI.
@@ -70,6 +71,8 @@ Mental health is as essential as any business metric. This dashboard explores su
 - Comparative analysis of mental vs physical health disclosure in job interviews  
 - Clean, accessible design with interactive filters and visuals  
 
+📎 Folder: `mental-health-trends/`  
+🔗 [View on GitHub](https://github.com/vinutha-arveti/PowerBi-viz-by-vinutha/tree/main/mental-health-trends)
 
 ---
 
@@ -97,5 +100,3 @@ Mental health is as essential as any business metric. This dashboard explores su
 📧 vinuthaarveti7@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/arveti-vinutha-4472a1294)  
 💻 [GitHub](https://github.com/vinutha-arveti)
-
-
